@@ -102,6 +102,7 @@ function second_symbol(string, letter){
 
 console.log(second_symbol('Hello world!!!','l'));
 console.log(second_symbol('Hello world!!!', 'O'));
+console.log(second_symbol("jbjtGWyenuwZmvwdJbQUUfSOACXkkprTEpkiJbhBLgYmMdEZZdmpPdlmfQHnNPmOpVWnIXBcaytOzjCGB", "F"));
 
 
 
